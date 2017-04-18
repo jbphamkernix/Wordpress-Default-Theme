@@ -1,7 +1,7 @@
 # Project Name
 ## Installation
 1. Create a database for the project and import the DB dump.
-(On back-office the website : Tools -> WP Migrate DB. Then find and replace on URLs and file paths.)
+(On back-office of the website : Tools -> WP Migrate DB. Then find and replace on URLs and file paths.)
 
 2. Extract folders `uploads` and `plugins` of the release on the folder wp-content **OR** Recover folders `uploads` and `plugins` on the project server.
 
